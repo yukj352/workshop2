@@ -22,7 +22,7 @@ This is a simple Sentiment Analysis Web Application built using Flask and TextBl
       Ensure you have Python installed on your system. You can download it from python.org.
       
    2. Clone the Repository
-   git clone https://github.com/your-username/Sentiment-Analysis-WebApp.git
+   https://github.com/yukj352/workshop2.git
   
    3. Run the Application
   -   python app.py
